@@ -107,3 +107,5 @@ Créer un fichier `README.md` contenant :
 - 1 Pull Request créée et mergée
 - Capture d’écran de l’ajout du collaborateur
 - Lien vers la page déployée (si applicable)
+
+Ajouter un élément au projet (ex : un header HTML ou une nouvelle route dans Express)
